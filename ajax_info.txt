@@ -1,0 +1,4 @@
+
+<img src="images/piscina.jpg" class="image" alt="piscina"><br>
+<img src="images/praia-noite.jpg" class="image" alt="praia noite"><br>
+<img src="images/praia.jpg" class="image" alt="praia"><br>
